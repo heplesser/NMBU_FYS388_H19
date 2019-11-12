@@ -1,0 +1,12 @@
+name: nest
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - numpy
+  - scipy
+  - matplotlib
+  - Cython
+  - pytest
+  - pip
+  - nest-simulator
